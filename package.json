@@ -1,0 +1,11 @@
+{
+  "name": "clickbot",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Auto clicks a link with selenium",
+  "script": {},
+  "dependencies": {
+    "selenium-webdriver": "latest",
+    "redis": "latest"
+  }
+}
